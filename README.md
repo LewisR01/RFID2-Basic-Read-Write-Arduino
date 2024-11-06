@@ -9,4 +9,7 @@ One of the main issues I have is that the NTAG213s I am using seem to have the 5
 
 I am new to this whole idea of arduino and makering and especially posting a repository so apologies in advance if I have made a mistake.
 
+Run in CMD prompt for the python script to work pip install pyqt5 pyserial. If that fails make sure you have python installed.
+
+
 
